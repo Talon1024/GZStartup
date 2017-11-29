@@ -1,0 +1,7 @@
+# Binaries
+a.out
+gzstartup
+
+# Build system stuff
+CMakeCache.txt
+CMakeFiles/
