@@ -5,3 +5,7 @@ gzstartup
 # Build system stuff
 CMakeCache.txt
 CMakeFiles/
+
+# Resources
+*.ttf
+*.png
